@@ -1,0 +1,19 @@
+game
+|-- Main.java // this include the cover page
+|
+|-- levelselection
+|   |-- LevelSelection.java
+|   |-- LevelSelectionPanel.java
+|
+|-- gameplay
+|   |-- Gameplay.java
+|
+|-- bricks
+|   |-- Brick.java
+|
+|-- map
+|   |-- MapGenerator.java
+|   |-- MapGenerator1.java
+|   |-- MapGenerator2.java
+|   |-- MapGenerator3.java
+|   |-- MapGenerator4.java
