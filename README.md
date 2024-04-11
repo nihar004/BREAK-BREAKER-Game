@@ -19,9 +19,10 @@ Brick Breaker is a classic arcade game developed in Java using Swing and various
 Use the arrow keys (<- ->) to control the paddle, bouncing the ball to break the bricks and progress through the stages, To achieve higher scores.
 
 ## Screenshots
-![image](https://github.com/nihar004/BREAK-BREAKER-Game/assets/153357208/dd27f9e0-8b9c-4e2c-9426-06fe85add11f)
-![image](https://github.com/nihar004/BREAK-BREAKER-Game/assets/153357208/a1db8bb3-66bc-496b-851c-8cdbd47c8947)
-![image](https://github.com/nihar004/BREAK-BREAKER-Game/assets/153357208/be010331-e8e8-420a-b714-9387924199d0)
+
+<img src="https://github.com/nihar004/BREAK-BREAKER-Game/assets/153357208/dd27f9e0-8b9c-4e2c-9426-06fe85add11f" width="200">
+<img src="https://github.com/nihar004/BREAK-BREAKER-Game/assets/153357208/a1db8bb3-66bc-496b-851c-8cdbd47c8947" width="200">
+<img src="https://github.com/nihar004/BREAK-BREAKER-Game/assets/153357208/be010331-e8e8-420a-b714-9387924199d0" width="200">
 
 
 
