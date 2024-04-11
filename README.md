@@ -20,8 +20,8 @@ Use the arrow keys (<- ->) to control the paddle, bouncing the ball to break the
 
 ## Screenshots
 
-<img src="https://github.com/nihar004/BREAK-BREAKER-Game/assets/153357208/dd27f9e0-8b9c-4e2c-9426-06fe85add11f" width="600">
-<img src="https://github.com/nihar004/BREAK-BREAKER-Game/assets/153357208/a1db8bb3-66bc-496b-851c-8cdbd47c8947" width="600">
+<img src="https://github.com/nihar004/BREAK-BREAKER-Game/assets/153357208/dd27f9e0-8b9c-4e2c-9426-06fe85add11f" width="500">
+<img src="https://github.com/nihar004/BREAK-BREAKER-Game/assets/153357208/a1db8bb3-66bc-496b-851c-8cdbd47c8947" width="500">
 <img src="https://github.com/nihar004/BREAK-BREAKER-Game/assets/153357208/72a20b7e-b2ab-42d8-817e-6989275d0cf7" width="400">
 
 <img src="https://github.com/nihar004/BREAK-BREAKER-Game/assets/153357208/51996ed4-db47-4fb0-9ff2-a23d4661d98b" width="400">
